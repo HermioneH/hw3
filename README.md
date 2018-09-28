@@ -18,3 +18,13 @@ The range of HSB is the max, which allows all the HSB.
 2th: make position of the grass starts on the ground
 4th: make height of the grass keep grow larger
 make sure the grass can continue grow
+
+
+1.0-14
+2.whil loop allows code to be executed repeatedly based on a given condition, and for loop execute a block of code a number of time.
+3.the initialization, the condition, and the final expression
+4.arryName[index]
+
+1. determine variable
+2.map(mouseX, 0,225,0,255)
+3.random(1900,1999)
